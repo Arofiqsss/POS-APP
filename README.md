@@ -1,5 +1,5 @@
 # Aplikasi Kasir (Point of Sales) 
-Aplikasi ini dapat digunakan untuk melakukan pencatatan transaksi jual beli pada sebuah warung atau toko. Secara template, aplikasi ini menggunakan resource dari https://github.com/Raf-Taufiqurrahman/RILT-Starter dengan beberapa modifikasi yang saya lakukan terhadap komponen-komponen untuk mendukung aplikasi kasir.
+Aplikasi ini dapat digunakan untuk melakukan pencatatan transaksi jual beli pada sebuah warung atau toko.
 
 ## Tech Stack
 
@@ -8,10 +8,6 @@ Aplikasi ini dapat digunakan untuk melakukan pencatatan transaksi jual beli pada
 - React
 - TailwindCSS
 - MySQL
-## Authors
-
-- [Arya Dwi Putra](https://www.github.com/aryadwiputra)
-- [Rafi Taufiqurrahman](https://github.com/Raf-Taufiqurrahman)
 
 
 ## 📌 Fitur
@@ -76,11 +72,6 @@ npm run dev
 php artisan serve
 ```
 
-## Jika ada pertanyaan silahkan hubungi saya di email :
-
-```
-aryaadwptr@gmail.com
-```
 
 ## Request Fitur Baru dan Pelaporan Bug
 
